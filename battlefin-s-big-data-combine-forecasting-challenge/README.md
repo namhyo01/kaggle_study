@@ -1,4 +1,4 @@
-### The Big Data Combine Engineered by BattleFin
+# The Big Data Combine Engineered by BattleFin
 ## Overview
 		○ 뉴스 및 정서 데이터를 사용하여 주가의 단기 이동 예측	
 		○ BattleFin이 설계한 Big Data Combine은 컴퓨터과학자가 모델을 통해 수익을 창출할 수 있는 엘리트 예측 분석 기술을 갖춘 신속한 적용, 실시간 테스트입니다.
